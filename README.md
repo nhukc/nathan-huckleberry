@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[Linux Kernel Contributions](https://www.mail-archive.com/search?q=nhuck%40google.com&l=linux-kernel%40vger.kernel.org)
+[LLVM Contributions](https://github.com/llvm/llvm-project/commits/main?author=Nathan-Huckleberry)
+
 <!--
 **Nathan-Huckleberry/Nathan-Huckleberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
