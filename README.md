@@ -2,6 +2,8 @@
 
 I'm an aspiring systems and security engineer. I also play tetris.
 
+### Code Contributions
+
 [Linux Kernel Contributions](https://www.mail-archive.com/search?q=nhuck%40google.com&l=linux-kernel%40vger.kernel.org)
 
 [LLVM Contributions](https://github.com/llvm/llvm-project/commits/main?author=Nathan-Huckleberry)
