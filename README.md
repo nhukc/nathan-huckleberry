@@ -1,6 +1,6 @@
 ### Hi, I'm Huck
 
-I'm an aspiring systems and security engineer. I also play tetris.
+I play tetris. I'm also an aspiring systems and security engineer. 
 
 ### Code Contributions
 
