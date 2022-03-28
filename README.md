@@ -1,6 +1,6 @@
-### Hi, I'm Huck
+### huck
 
-I play tetris. I'm also an aspiring systems and security engineer. 
+Linux, cryptography and security.
 
 ### Code Contributions
 
