@@ -6,7 +6,7 @@ Linux, cryptography and security.
 
 [Linux Kernel Contributions](https://lore.kernel.org/all/?q=nhuck%40google.com)
 
-[LLVM Contributions](https://github.com/llvm/llvm-project/commits/main?author=Nathan-Huckleberry)
+[LLVM Contributions](https://github.com/llvm/llvm-project/commits/main?author=nhukc)
 
 <!--
 **Nathan-Huckleberry/Nathan-Huckleberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
