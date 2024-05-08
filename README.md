@@ -2,6 +2,12 @@
 
 Linux, cryptography and security.
 
+### Math stuff
+
+[Klein bottle figure 8 immersion](https://www.shadertoy.com/view/MftSzl)
+[Sphere parameterization](https://www.shadertoy.com/view/MftXRl)
+[Torus parameterization](https://www.shadertoy.com/view/MctSRl)
+
 ### Code Contributions
 
 [Linux Kernel Contributions](https://lore.kernel.org/all/?q=nhuck%40google.com)
