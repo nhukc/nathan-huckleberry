@@ -1,6 +1,6 @@
 ### I'm Huck
 
-Linux, cryptography and security.
+Linux, cryptography, and security.
 
 ### Math stuff
 
