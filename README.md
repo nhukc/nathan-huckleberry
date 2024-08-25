@@ -1,6 +1,6 @@
 ### I'm Huck
 
-Linux, cryptography, and security.
+I make computers go fast.
 
 ### Math stuff
 
